@@ -1,0 +1,209 @@
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\tatku\Downloads\Compressed\XML Application\test\Translima-Application\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\tatku\Desktop\XML Application\New\Translima-Application\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\dburger\Desktop\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\Downloads\AppScheduler 11-12-2020\Translima-Application (1)\Translima Application\bin\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Logging Framework.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Logging Framework.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Logging Framework.dll
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Logging Framework.pdb
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Logging Framework.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\Logging Framework.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Translima Application.exe.config
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Translima Application.exe
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Translima Application.pdb
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\INIFileParser.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\MetroFramework.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\INIFileParser.xml
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csprojAssemblyReference.cache
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.exe
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.pdb
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Spire.License.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Spire.Pdf.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Microsoft.mshtml.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Spire.License.xml
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\Spire.Pdf.xml
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\itextsharp.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Translima Application\bin\Debug\itextsharp.xml
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Translima Application.exe.config
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Translima Application.exe
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Translima Application.pdb
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\INIFileParser.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\itextsharp.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Logging Framework.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\MetroFramework.Design.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\MetroFramework.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\MetroFramework.Fonts.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Spire.License.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Spire.Pdf.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Microsoft.mshtml.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Logging Framework.pdb
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\INIFileParser.xml
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\itextsharp.xml
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Spire.License.xml
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\bin\Debug\Spire.Pdf.xml
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.AssemblyReference.cache
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima_Application.Form_Home.resources
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima_Application.Properties.Resources.resources
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.GenerateResource.cache
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.csproj.CopyComplete
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.exe
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Translima Application\obj\Debug\Translima Application.pdb

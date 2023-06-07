@@ -1,0 +1,44 @@
+C:\Users\muneeb.urrehman\source\repos\Logging Framework\Logging Framework\bin\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\source\repos\Logging Framework\Logging Framework\bin\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\source\repos\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csproj.CoreCompileInputs.cache
+C:\Users\muneeb.urrehman\source\repos\Logging Framework\Logging Framework\obj\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\source\repos\Logging Framework\Logging Framework\obj\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\source\repos\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csprojAssemblyReference.cache
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csproj.CoreCompileInputs.cache
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\Downloads\AppSchedulerWithLogging\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csproj.CoreCompileInputs.cache
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.pdb
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.dll
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.pdb
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csproj.CoreCompileInputs.cache
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.dll
+C:\Users\dburger\Desktop\AppSchedulerWithLogging_v1\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.pdb
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csproj.CoreCompileInputs.cache
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.dll
+C:\Users\davy_\Desktop\AppSchedulerWithLogging_v1\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csprojAssemblyReference.cache
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csproj.CoreCompileInputs.cache
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\Downloads\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csproj.CoreCompileInputs.cache
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.dll
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.pdb
+C:\Users\muneeb.urrehman\source\repos\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csprojAssemblyReference.cache
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Logging Framework\Logging Framework\bin\Debug\Logging Framework.pdb
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csproj.AssemblyReference.cache
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.dll
+D:\Visual Studio Repo\Translima-Application\Translima-Application\Logging Framework\Logging Framework\obj\Debug\Logging Framework.pdb
